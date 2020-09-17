@@ -21,7 +21,7 @@
     "@vkontakte/icons": "^1.18.2",
     "@vkontakte/vk-bridge": "^2.2.8",
     "@vkontakte/vk-miniapps-deploy": "0.0.17",
-    "@vkontakte/vkui": "^3.5.0",
+    "@vkontakte/vkui": "^3.7.0",
     "babel-eslint": "^10.1.0",
     "chalk": "^2.4.2",
     "core-js": "^3.6.4",
@@ -31,5 +31,17 @@
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

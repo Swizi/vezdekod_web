@@ -1,0 +1,14 @@
+.visibility_text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  /* or 123% */
+
+  letter-spacing: -0.078px;
+
+  /* Light Text / Secondary */
+
+  color: #818c99;
+  margin: 0 12px 0 12px;
+}

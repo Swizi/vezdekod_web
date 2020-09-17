@@ -1,0 +1,53 @@
+.Persik {
+  display: block;
+  width: 30%;
+  max-width: 240px;
+  margin: 20px auto;
+}
+
+.podcast_header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.podcast_form-header {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #6d7885;
+  letter-spacing: -0.154px;
+  margin: 0 0 8px 0;
+}
+
+.podcast_name-input {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  letter-spacing: -0.32px;
+  width: 100%;
+
+  /* Light Text / Placeholder */
+
+  color: #818c99;
+}
+
+.podcast_description{
+  padding: 0 12px 0 12px;
+}
+
+.podcast_upload{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.podcast_upload__text{
+  text-align: center;
+  margin: 8px 0 24px 0;
+}

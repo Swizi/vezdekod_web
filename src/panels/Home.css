@@ -1,0 +1,37 @@
+.home-container {
+  height: 100%;
+  margin: 150px 0 0 0;
+}
+
+.home-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.home_text {
+  color: #818c99;
+  text-align: center;
+  margin: 8px 0 24px 0;
+}
+
+.home_title {
+  margin: 16px 0 0 0;
+}
+
+.home_icon {
+  color: #99a2ad;
+}
+
+.FormLayout--ios .FormLayout__row .FormField,
+.FormLayout--ios .FormLayout__row .Button,
+.FormLayout--ios .FormLayout__row .FormStatus {
+  margin: 0;
+  z-index: 0;
+}
+
+.CardGrid--ios{
+  padding-left: 0;
+}
